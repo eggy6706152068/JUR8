@@ -1,5 +1,6 @@
 package Fibonacci;
 public class Fibonacci {
+    System.out.print("HAHAHAHA.....!!!!!!!!!!!!!!!!!!  ");
     public static void main(String[]args) {
         Scanner show = new Scanner(System.in);
         System.out.print("Masukan Jumlah Deret Fibonacci ");
